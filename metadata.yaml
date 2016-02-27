@@ -1,0 +1,32 @@
+_repo: Henry-VI-Part-2_2255
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Presents part two of the trilogy on Henry VI by William Shakespeare,
+  that charts the rise and fall of many of the court nobles and lords within Henry's
+  kingdom; and contains explanatory and textual notes, plot summaries, critical commentaries,
+  and introduction to Shakespearean language.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry VI, King of England, 1421-1471 -- Drama'
+- !lcsh 'Historical drama'
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Drama'
+- !lcsh 'Great Britain -- Kings and rulers -- Drama'
+- !lcc 'PR'
+title: Henry VI, Part 2
+url: http://www.gutenberg.org/ebooks/2255
