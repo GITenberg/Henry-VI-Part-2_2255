@@ -1,5 +1,5 @@
 _repo: Henry-VI-Part-2_2255
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Drama'
 - !lcsh 'Great Britain -- Kings and rulers -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Henry VI, Part 2
 url: http://www.gutenberg.org/ebooks/2255
